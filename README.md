@@ -1,11 +1,27 @@
-# sandbox-repo
+# Mobile Starter (Expo / React Native)
 
-A throwaway practice repository for drilling core GitHub mechanics: repository creation, commits, branching, and pull requests.
+A reusable Expo starter for A1 Intelligence mobile app builds. Fork this to begin any new client mobile project.
 
-## Purpose
+## Stack
 
-This repo exists only to build muscle memory. Nothing here is precious — break it, reset it, re-run drills against it as often as needed.
+- React Native
 
-## Drill Log
+- Expo
 
-- [x] Pass 1: Repo created, README + .gitignore committed
+- TypeScript
+
+## Setup
+
+```bash
+
+npm install
+
+npx expo start
+
+```
+
+Scan the QR code with the Expo Go app, or press `i` / `a` for an iOS / Android simulator.
+
+## Project Notes
+
+See `/docs/architecture.md` for structure and decisions.
