@@ -49,3 +49,6 @@ dist/
 # Misc
 .DS_Store
 .vscode-test
+
+# Claude Code local session/config
+.claude/
