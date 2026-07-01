@@ -29,3 +29,4 @@ See `/docs/architecture.md` for structure and decisions.
 ## Drill Log
 
 - [x] Pass 1: Repo created, README + .gitignore committed
+- [x] Exercise 4 Pass 1: First pull request opened, reviewed, and merged
