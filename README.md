@@ -25,3 +25,7 @@ Scan the QR code with the Expo Go app, or press `i` / `a` for an iOS / Android s
 ## Project Notes
 
 See `/docs/architecture.md` for structure and decisions.
+
+## Drill Log
+
+- [x] Pass 1: Repo created, README + .gitignore committed
